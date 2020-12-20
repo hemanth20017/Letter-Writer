@@ -1,0 +1,20 @@
+From,
+(area) 
+Date (Date on which letter is written) ,
+
+To,
+The Principal,
+(school mame) 
+
+Sub: Leave letter 
+
+Dear (Sir/madam) ,
+
+With due respect, I would like to inform you that my ward (name of the ward)   is a student of class (mention class), of your school. () .
+Therefore, I request you to please consider our situation and grant leave for ()  days. I assure you that my ward will attend classes regularly from this date forward.
+
+Thanking you,
+
+Yours sincerely,
+
+(parent)
