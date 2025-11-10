@@ -6,7 +6,7 @@ From
 
 (gmail id) ,
 
-Date : () ,
+date : () ,
 
 (Supervisor’s Name) ,
 (Title) ,
@@ -15,7 +15,7 @@ Date : () ,
 
 Dear ( ):
 
-This letter is a formal request for a leave of absence, to follow up on our meeting yesterday. As we discussed, I would like to request a leave of absence from (start date)  to  (end date)  .
+This letter is a formal request for a leave of absence,follow up on our meeting yesterday. As we discussed, I would like to request a leave of absence from (start date)  to  (end date)  .
 
 The reason being (reason) . 
 
